@@ -1,28 +1,6 @@
-<<<<<<< HEAD
-# Dosya Senkronizasyon Uygulaması
-
-## Özellikler
-- Klasör ve dosya bazlı senkronizasyon
-- Otomatik senkronizasyon ve zamanlama
-- Özelleştirilebilir dosya ve klasör desenleri
-- Çoklu thread desteği ile hızlı kopyalama
-- Yedekleme özelliği
-- Detaylı loglama
-- Kullanıcı dostu arayüz
-
-## Kurulum
-1. Uygulamayı indirin
-2. Gerekli modülleri yükleyin:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Uygulamayı başlatın:
-=======
 # File Synchronization Application
 # Dosya Senkronizasyon Uygulaması
-
 [Türkçe Version](TR-README.md)
-
 ## Features
 - Folder and file-based synchronization
 - Automatic synchronization and scheduling
@@ -44,7 +22,6 @@
    python run.py
    ```
 
-<<<<<<< HEAD
 ## Kullanım
 1. **Kaynak Klasör**: Senkronize edilecek dosyaların bulunduğu klasör
 2. **Hedef Klasör**: Dosyaların kopyalanacağı klasör
